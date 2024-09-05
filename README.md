@@ -10,8 +10,6 @@ This is a **Workout Application** built using **Android Kotlin**. The app helps 
 - **Exercise History**: Exercise data is stored locally using Room Database to keep track of the user's workout history.
 - **Responsive Design**: The app utilizes ConstraintLayout to ensure a responsive design that works well on various screen sizes.
 
-## Screenshots
-
 ## Technologies Used
 
 - **Kotlin**: For Android app development.
